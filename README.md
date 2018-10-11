@@ -15,7 +15,7 @@ Build Steps:
   - Clone this project into $ZEPPELIN_SRC\plantuml
   - Run mvn install in $ZEPPELIN_SRC\plantuml
   - Find $ZEPPELIN_SRC\interpreter\plantuml\ and copy the whole directory to $ZEPPELIN_BIN\interpreter\plantuml
-  - Add following json to the interpreterSettings property in $ZEPPELIN_BIN\conf\interpreter.json
+  - Add following json to the interpreterSettings property in $ZEPPELIN_BIN\conf\interpreter.json . Or **Simply delete that file, it will be re-created by zeppelin on next startup.**
 
 ```json
     "plantuml": {
