@@ -27,7 +27,7 @@
   </parent>
 
   <groupId>org.apache.zeppelin</groupId>
-  <artifactId>zeppelin-plantuml</artifactId>
+  <artifactId>zeppelin-interpreter-plantuml</artifactId>
   <packaging>jar</packaging>
   <version>0.8.0</version>
   <name>Zeppelin: PlantUML interpreter</name>
