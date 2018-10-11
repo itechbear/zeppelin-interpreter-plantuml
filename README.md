@@ -27,7 +27,7 @@ Build Steps:
           "name": "plantuml.render.timeout.millisecs",
           "value": "60000",
           "type": "number"
-        },
+        }
       },
       "status": "READY",
       "interpreterGroup": [
