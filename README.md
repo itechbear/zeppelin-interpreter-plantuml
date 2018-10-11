@@ -54,6 +54,13 @@ Build Steps:
     }
 ```
 
-### Test your installation
+# Test your installation
 
 ![Testing](./data/testdot.png)
+
+# Branch/Version Matrix
+
+| zeppelin-interpreter-plantuml branch | supported zeppelin version |
+| ------------- | ------------- |
+| master  | latest stable (0.8.0 as of Oct 10, 2018)  |
+| branch-0.8.0  | 0.8.0  |
