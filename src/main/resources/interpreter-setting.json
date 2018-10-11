@@ -1,0 +1,21 @@
+[
+  {
+    "group": "plantuml",
+    "name": "plantuml",
+    "className": "org.apache.zeppelin.uml.PlantUMLInterpreter",
+    "properties": {
+      "plantuml.render.timeout.millisecs": {
+        "envName": "PLANTUML_RENDER_TIMEOUT",
+        "propertyName": "plantuml.render.timeout.millisecs",
+        "defaultValue": "60000",
+        "description": "PlantUML rendering time out in millisecs. Default = 60000",
+        "type": "number"
+      }
+    },
+    "editor": {
+      "language": "text",
+      "editOnDblClick": false,
+      "completionSupport": false
+    }
+  }
+]
